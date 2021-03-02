@@ -1,5 +1,5 @@
 Albert Tan
-ECE 276A PA2 - Particle Filter SLAM
+Particle Filter SLAM
 
 All work is documented in 5 notebooks
 
