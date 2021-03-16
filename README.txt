@@ -1,7 +1,7 @@
 Albert Tan
 ECE 276A PA2 - Particle Filter SLAM
 
-All work is documented in 5 notebooks
+All work is documented in 3 notebooks
 
 1. Lidar Processing.ipynb: Converts lidar points from lidar frame to world frame and displays first scan
 2. Dead Reckoning Plot.ipynb: Plots the map and trajectory of dead-reckoning using the data of previous notebook 
